@@ -304,6 +304,44 @@
         "artifactId": "zeppelin-interpreter-parent"
       }
     },
+    "zeppelin-iotdb": {
+      "latest": {
+        "type": "INTERPRETER",
+        "name": "zeppelin-iotdb",
+        "version": "1.3.2",
+        "published": "2024-06-27T07:06:17+00:00",
+        "artifact": "zeppelin-iotdb@1.3.2",
+        "description": "Zeppelin IoTDB support",
+        "license": "Apache-2.0",
+        "icon": "<i class=\"fa fa-rocket\"></i>",
+        "groupId": "org.apache.iotdb",
+        "artifactId": "zeppelin-iotdb"
+      },
+      "1.3.1": {
+        "type": "INTERPRETER",
+        "name": "zeppelin-iotdb",
+        "version": "1.3.1",
+        "published": "2024-04-19T08:49:13+00:00",
+        "artifact": "zeppelin-iotdb@1.3.1",
+        "description": "Zeppelin IoTDB support",
+        "license": "Apache-2.0",
+        "icon": "<i class=\"fa fa-rocket\"></i>",
+        "groupId": "org.apache.iotdb",
+        "artifactId": "zeppelin-iotdb"
+      },
+      "1.3.0": {
+        "type": "INTERPRETER",
+        "name": "zeppelin-iotdb",
+        "version": "1.3.0",
+        "published": "2023-12-27T04:17:42+00:00",
+        "artifact": "zeppelin-iotdb@1.3.0",
+        "description": "Zeppelin IoTDB support",
+        "license": "Apache-2.0",
+        "icon": "<i class=\"fa fa-rocket\"></i>",
+        "groupId": "org.apache.iotdb",
+        "artifactId": "zeppelin-iotdb"
+      }
+    },
     "zeppelin-jupyter-interpreter": {
       "latest": {
         "type": "INTERPRETER",
@@ -1295,12 +1333,23 @@
         "license": "BSD-2-Clause",
         "icon": "<i class='fa fa-globe'></i>"
       },
-      "latest": {
+      "1.6.1": {
         "type": "VISUALIZATION",
         "name": "apache-sedona",
         "version": "1.6.1",
         "published": "2024-08-25T03:35:17.708Z",
         "artifact": "apache-sedona@1.6.1",
+        "author": "Apache Sedona, original authors are listed on https://github.com/myuwono/zeppelin-leaflet",
+        "description": "Zeppelin visualization support for Sedona",
+        "license": "BSD-2-Clause",
+        "icon": "<i class='fa fa-globe'></i>"
+      },
+      "latest": {
+        "type": "VISUALIZATION",
+        "name": "apache-sedona",
+        "version": "1.7.0",
+        "published": "2024-12-03T00:40:16.921Z",
+        "artifact": "apache-sedona@1.7.0",
         "author": "Apache Sedona, original authors are listed on https://github.com/myuwono/zeppelin-leaflet",
         "description": "Zeppelin visualization support for Sedona",
         "license": "BSD-2-Clause",
